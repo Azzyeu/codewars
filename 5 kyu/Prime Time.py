@@ -16,5 +16,3 @@ def prime(n):
             if isPrime(i):
                 primes.append(i)
         return primes
-
-print(prime(20))
